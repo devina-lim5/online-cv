@@ -28,11 +28,6 @@ h2 {
   text-align: center;
 }
 
-p {
-  font-size: 1.25rem;
-  margin: 0 auto;
-}
-
 .earth {
   display: block;
   height: 25%;
@@ -120,6 +115,11 @@ p {
   margin: 50px auto;
 }
 
+.contact-paragraph {
+  font-family: 'Comfortaa', cursive;
+  margin: 20px auto;
+  width: 50%;
+}
 
 .noodle {
   height: 1.25rem;
