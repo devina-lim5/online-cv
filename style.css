@@ -29,6 +29,10 @@ h2 {
   text-align: center;
 }
 
+p {
+  font-size: 1.25rem;
+}
+
 .earth {
   display: block;
   height: 25%;
@@ -58,10 +62,6 @@ h2 {
   font-family: 'Comfortaa', cursive;
   margin: 20px auto;
   width: 50%;
-}
-
-.experiences-link {
-  font-family: 'Comfortaa', cursive;
 }
 
 .skill-header {
@@ -122,8 +122,8 @@ h2 {
 
 
 .noodle {
-  height: 20px;
-  width: 20px;
+  height: 1.25rem;
+  width: 1.25rem;
 }
 
 .btn {
