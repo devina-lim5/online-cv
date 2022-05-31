@@ -28,6 +28,12 @@ h2 {
   text-align: center;
 }
 
+hr {
+  border-style: dashed;
+  height: 0;
+  width: 75%;
+}
+
 .earth {
   display: block;
   height: 25%;
