@@ -29,6 +29,12 @@ h2 {
   text-align: center;
 }
 
+hr {
+  border-style: dashed;
+  height: 0;
+  width: 75%;
+}
+
 .title-intro {
   color: white;
   font-family: 'Comfortaa', cursive;
